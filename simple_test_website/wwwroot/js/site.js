@@ -5,7 +5,6 @@
 
 function move_box() {
     let box = document.getElementById("moving_box");
-
     let pos = 0;
     let direction = 1;
     let phase = 1;
